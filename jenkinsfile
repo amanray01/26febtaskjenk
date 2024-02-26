@@ -6,7 +6,7 @@ pipeline{
              {
              steps
                  {
-                 git "https://github.com/amanray01/jenkin23fb.git"
+                 git "https://github.com/amanray01/26febtaskjenk.git"
                  }
              }
          stage("run")
